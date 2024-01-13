@@ -2,5 +2,6 @@
 Todo application using react native
 
 # UI
-![image](https://github.com/Abishani/react_native_TodoApp/assets/66344633/f88bbf89-39c6-4273-9b95-03253bca46c6) ![image](https://github.com/Abishani/react_native_TodoApp/assets/66344633/68f5404b-f89c-4263-a220-32b31ccb8fc8)
+![image](https://github.com/Abishani/react_native_TodoApp/assets/66344633/8b1c2114-62f2-4034-9bcf-559cf1a67af2)![image](https://github.com/Abishani/react_native_TodoApp/assets/66344633/01a7c7d0-7831-4ef1-bbb7-7e38f649de76)
+
 
